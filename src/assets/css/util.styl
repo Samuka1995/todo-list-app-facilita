@@ -1,0 +1,75 @@
+.button-block
+  margin 20px 0px
+
+.botao
+  display inline-block
+  transition var( --transicao-padrao )
+  padding 18px 30px
+  border none
+  border-radius 5px
+  color #FFF
+  font-weight 700
+  font-size 16px
+  cursor pointer
+  text-decoration none
+
+.botao--100
+  width 100%
+
+.input-block
+  margin-top 20px
+
+.input-label
+  margin-bottom 10px
+  font-weight 600
+  font-size 14px
+  color var( --cor-label-input )
+
+.input-input, .input-base
+  -webkit-appearance none
+  -moz-appearance none
+  appearance none
+  box-sizing border-box
+  width 100%
+  margin-top 8px
+  color var( --cor-label-input )
+  background var( --cor-background )
+  border 2px solid var( --cor-borda-input )
+  border-radius 5px
+  text-indent 20px
+  font-weight 600
+  font-size 15px
+  line-height 16px
+
+.input-input
+  height 55px
+
+.input-textarea
+  padding 20px
+  text-indent 0
+
+.input-base:focus, .input-input:focus, .input-textarea:focus
+  outline-color var( --cor-principal )
+
+.radio__input
+  -webkit-appearance none
+  -moz-appearance none
+  height 22px
+  width 22px
+  float left
+  border-radius 50%
+  border 2px solid var( --cor-borda-input )
+  cursor pointer
+
+.radio__input:checked
+  border 6px solid var( --cor-background )
+  box-shadow 0 0 0 2px var( --cor-borda-input )
+  background var( --cor-principal )
+
+.radio-label
+  float left
+  padding 5px 10px
+  font-weight 600
+  font-size 14px
+  line-height 15px
+  color var( --cor-label-input )
