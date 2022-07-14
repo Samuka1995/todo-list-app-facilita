@@ -9,6 +9,7 @@ Projeto desenvolvido App Facilita.
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <img src="exemplo-image.png" alt="exemplo imagem">
+![Screenshot](https://user-images.githubusercontent.com/70987497/178858847-42cd1e77-f07b-4ab7-96be-24b394d0282e.png)
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 ### Ajustes e melhorias
