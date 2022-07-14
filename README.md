@@ -5,8 +5,8 @@ div align="center"
 </h1>
 <p align="center">🚀 App para gerenciamento de tarefas</p>
 
-img src="https://user-images.githubusercontent.com/70987497/178858847-42cd1e77-f07b-4ab7-96be-24b394d0282e.png." width="0px" /
-/div
+<img src="https://user-images.githubusercontent.com/70987497/178858847-42cd1e77-f07b-4ab7-96be-24b394d0282e.png." width="0px" />
+
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
