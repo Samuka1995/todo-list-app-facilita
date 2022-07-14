@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/70987497/178867088-f7cd10be-c608-4fcc-9681-5c6193221e5f.png" width="700px" />
 </div>
 
-<p align="center">Tela de Cadastro de Tarefas</p>
+<p align="center">Tela Cadastro de Tarefas</p>
 
 
 ### 🛠 Tecnologias
