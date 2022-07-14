@@ -10,6 +10,16 @@
 
 <p align="center">Tela de acesso</p>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/70987497/178866757-235360c0-d46f-45b6-a435-afb70aaf00ee.png" width="700px" />
+</div>
+
+<p align="center">Tela de Tarefas</p>
+
+
+
+
+
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
