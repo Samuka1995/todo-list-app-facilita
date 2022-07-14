@@ -26,6 +26,9 @@
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Vue 2.0](https://vuejs.org/)
 - [Vuex 3.0](https://v3.vuex.vuejs.org/)
 - [Stylus](https://stylus-lang.com/)
