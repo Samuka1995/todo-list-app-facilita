@@ -5,8 +5,10 @@
 <p align="center">🚀 App para gerenciamento de tarefas</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/70987497/178858847-42cd1e77-f07b-4ab7-96be-24b394d0282e.png" width="0px" />
+<img src="https://user-images.githubusercontent.com/70987497/178858847-42cd1e77-f07b-4ab7-96be-24b394d0282e.png" width="700px" />
 </div>
+
+<p align="center">Tela de acesso</p>
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
