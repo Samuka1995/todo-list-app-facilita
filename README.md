@@ -10,18 +10,19 @@
 
 <p align="center">Tela de acesso</p>
 
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/70987497/178866757-235360c0-d46f-45b6-a435-afb70aaf00ee.png" width="700px" />
 </div>
 
 <p align="center">Tela de Tarefas</p>
 
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/70987497/178867088-f7cd10be-c608-4fcc-9681-5c6193221e5f.png" width="700px" />
 </div>
 
 <p align="center">Tela Cadastro de Tarefas</p>
-
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
